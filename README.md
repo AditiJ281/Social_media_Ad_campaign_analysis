@@ -33,7 +33,7 @@ Built an end-to-end data pipeline using Databricks and Power BI to analyze 100K+
 ---
 
 ## Dashboard Preview
-![Dashboard Overview](https://github.com/your-username/your-repo-name/blob/main/screenshots/dashboard_page1.png)
+![Dashboard Overview](https://github.com/AditiJ281/Social_media_Ad_campaign_analysis/blob/main/Images/Overview.png?raw=true)
 
 ---
 
